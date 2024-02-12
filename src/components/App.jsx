@@ -40,7 +40,7 @@ const App = () => {
     <div>
       <Profile username={username} tag={tag} location={location} avatar={avatar} stats={stats} />
       <Statistics title="Upload stats" stats={Data} />
-      {/* <FriendList friends={friendsData} />; */}
+      <FriendList friends={friendsData} />;
     </div>
   );
 };
