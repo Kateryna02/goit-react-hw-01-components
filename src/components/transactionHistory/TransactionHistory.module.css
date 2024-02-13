@@ -1,0 +1,33 @@
+.transactionHistory {
+    border-collapse: collapse;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.tread {
+    background: #597fef;
+    font-size: 15px;
+    color: rgb(246, 246, 246);
+}
+
+.table {
+    border: 2px solid #ccc;
+    
+}
+
+.type,
+.amount,
+.currency {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center
+}
+
+.tbody {
+    color: #21202082;
+    ;
+    font-size: 12px;
+    background: white;
+}
